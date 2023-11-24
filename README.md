@@ -21,9 +21,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![mechanics exp6 pg1](https://github.com/hasnu0406/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/135305537/3da949f0-1af3-4af3-9785-147ad6062b5c)
+![mechanics exp6 pg2](https://github.com/hasnu0406/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/135305537/a901787d-d50d-4a40-a9d1-86a5db4c4a53)
+![mechanics exp6 pg3](https://github.com/hasnu0406/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/135305537/286814af-fa5a-4136-803a-eac60030354f)
 
-### Name:
-### Register Number:
+### Name: HASNA MUBARAK AZEEM
+### Register Number: 23000568
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
